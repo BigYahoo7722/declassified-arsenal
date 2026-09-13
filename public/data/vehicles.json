@@ -1,0 +1,98 @@
+[
+  {
+    "id": "cn-j8a-finback",
+    "name": "Shenyang J-8A",
+    "designation": "NATO reporting name: Finback-A",
+    "nation": "China",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1980,
+    "manufacturer": "Shenyang Aircraft Corporation",
+    "role": "High-Altitude Interceptor",
+    "thumbnail": "",
+    "laymansBrief": "The J-8A was built around a single idea: get high and get there fast, before the other side even knows you're coming. It traded dogfighting agility for a long, needle-nosed airframe that could sprint past twice the speed of sound and claw up past 20,000 meters — enough to reach and down high-flying bombers and reconnaissance aircraft that older Chinese fighters simply couldn't touch. It's less a knife-fighter and more a gatekeeper for the upper sky.",
+    "tags": ["china", "interceptor", "jet", "fighter", "cold war", "finback", "pla air force"],
+    "specs": {
+      "crew": "1",
+      "length": "21.59 m",
+      "wingspan": "9.34 m",
+      "maxSpeed": "Mach 2.2",
+      "serviceCeiling": "20,200 m",
+      "range": "1,988 km",
+      "powerplant": "2x Wopen WP-7B turbojets",
+      "armament": "1x 23mm cannon, PL-2 / PL-5 air-to-air missiles"
+    }
+  },
+  {
+    "id": "us-m1a2-abrams",
+    "name": "M1A2 Abrams",
+    "designation": "Main Battle Tank",
+    "nation": "United States",
+    "domain": "Land",
+    "era": "Post-Cold War",
+    "yearIntroduced": 1992,
+    "manufacturer": "General Dynamics Land Systems",
+    "role": "Main Battle Tank",
+    "thumbnail": "",
+    "laymansBrief": "The M1A2 is built on a simple trade: burn fuel fast in exchange for surviving almost anything. Its gas-turbine engine gives it a sprint speed that lets it outmaneuver older tanks, while layered composite armor around the crew compartment is designed so that if it does get hit, the crew walks away. The 120mm cannon and networked targeting sensors mean it's built to see and kill first, rather than trade blows.",
+    "tags": ["usa", "tank", "mbt", "armor", "abrams", "army", "post cold war"],
+    "specs": {
+      "crew": "4",
+      "length": "9.83 m (gun forward)",
+      "combatWeight": "~68 tons",
+      "maxSpeed": "67 km/h (road, governed)",
+      "range": "426 km",
+      "powerplant": "Honeywell AGT1500 gas turbine, 1,500 hp",
+      "armament": "120mm M256 smoothbore, .50 cal + 7.62mm secondaries",
+      "armor": "Second-generation Chobham composite"
+    }
+  },
+  {
+    "id": "il-merkava-mk4",
+    "name": "Merkava Mk4",
+    "designation": "Main Battle Tank",
+    "nation": "Israel",
+    "domain": "Land",
+    "era": "Modern",
+    "yearIntroduced": 2004,
+    "manufacturer": "Israel Ordnance Corps / IMI",
+    "role": "Main Battle Tank",
+    "thumbnail": "",
+    "laymansBrief": "Most tanks put the engine at the back to protect the crew from a rear-facing threat; the Merkava puts it at the front, on purpose. That single design choice turns the rear of the hull into an armored compartment that can evacuate wounded crew or carry infantry, reflecting a doctrine built around crew survivability above almost everything else. Add an active protection system that shoots down incoming anti-tank missiles before impact, and the philosophy becomes clear: bring everyone home.",
+    "tags": ["israel", "tank", "mbt", "merkava", "armor", "idf", "modern"],
+    "specs": {
+      "crew": "4 (+ up to 6 dismounts)",
+      "length": "9.04 m (gun forward)",
+      "combatWeight": "~65 tons",
+      "maxSpeed": "64 km/h",
+      "range": "500 km",
+      "powerplant": "GD883 turbocharged diesel, 1,500 hp",
+      "armament": "120mm MG253 smoothbore, 60mm internal mortar",
+      "armor": "Modular composite + Trophy active protection system"
+    }
+  },
+  {
+    "id": "eu-eurofighter-typhoon",
+    "name": "Eurofighter Typhoon",
+    "designation": "Multirole Fighter",
+    "nation": "Multinational (UK / Germany / Italy / Spain)",
+    "domain": "Air",
+    "era": "Modern",
+    "yearIntroduced": 2003,
+    "manufacturer": "Eurofighter GmbH (BAE / Airbus / Leonardo)",
+    "role": "Air Superiority & Multirole Fighter",
+    "thumbnail": "",
+    "laymansBrief": "The Typhoon was designed as a compromise made deliberately, not by accident: a relaxed-stability delta-canard airframe that's naturally unstable and needs constant computer correction to fly, which is exactly what makes it so agile in a dogfight. It was built by four nations that each wanted a different aircraft, and the result is a jack-of-all-trades that can intercept, escort, and drop precision munitions in the same sortie rather than being locked into a single job.",
+    "tags": ["eurofighter", "typhoon", "multinational", "fighter", "jet", "raf", "modern", "nato"],
+    "specs": {
+      "crew": "1 (2 for trainer variant)",
+      "length": "15.96 m",
+      "wingspan": "10.95 m",
+      "maxSpeed": "Mach 2.0",
+      "serviceCeiling": "19,812 m",
+      "combatRadius": "1,389 km",
+      "powerplant": "2x Eurojet EJ200 turbofans w/ afterburner",
+      "armament": "1x 27mm Mauser cannon, 13 hardpoints (AMRAAM / ASRAAM / Meteor)"
+    }
+  }
+]
