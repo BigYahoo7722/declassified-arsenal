@@ -1,0 +1,143 @@
+name: Extract Helicopters (Monthly)
+
+on:
+  schedule:
+    - cron: "0 3 8 * *"   # 03:00 UTC, 8th of the month
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: vehicle-data-write
+  cancel-in-progress: false
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Extract Military helicopters
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Military helicopters" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Attack helicopters
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Attack helicopters" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Transport helicopters
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Transport helicopters" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Helicopters of the United States
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Helicopters of the United States" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Helicopters of the Soviet Union
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Helicopters of the Soviet Union" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Helicopters of Russia
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Helicopters of Russia" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Helicopters of France
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Helicopters of France" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Helicopters of Germany
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Helicopters of Germany" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Helicopters of the United Kingdom
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Helicopters of the United Kingdom" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Helicopters of Italy
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Helicopters of Italy" \
+            --limit 200 --resume --translate-fa
+
+      - name: Commit updated data
+        id: commit
+        run: |
+          git config user.name "vehicle-data-bot"
+          git config user.email "actions@github.com"
+          git add public/data/vehicles.json
+          if git diff --cached --quiet; then
+            echo "No new helicopters found — nothing to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "chore(data): monthly helicopters extraction $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
+          git push origin main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Trigger site rebuild
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main

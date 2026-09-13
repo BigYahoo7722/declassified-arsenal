@@ -1,0 +1,143 @@
+name: Extract Warships (Monthly)
+
+on:
+  schedule:
+    - cron: "0 3 22 * *"   # 03:00 UTC, 22nd of the month
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: vehicle-data-write
+  cancel-in-progress: false
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Extract Frigates
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Frigates" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Destroyers
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Destroyers" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Submarines
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Submarines" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Aircraft carriers
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Aircraft carriers" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Frigate classes
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Frigate classes" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Destroyer classes
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Destroyer classes" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Cruisers
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Cruisers" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Corvettes
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Corvettes" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Amphibious warfare ships
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Amphibious warfare ships" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Ballistic missile submarines
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Ballistic missile submarines" \
+            --limit 200 --resume --translate-fa
+
+      - name: Commit updated data
+        id: commit
+        run: |
+          git config user.name "vehicle-data-bot"
+          git config user.email "actions@github.com"
+          git add public/data/vehicles.json
+          if git diff --cached --quiet; then
+            echo "No new warships found — nothing to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "chore(data): monthly warships extraction $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
+          git push origin main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Trigger site rebuild
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main

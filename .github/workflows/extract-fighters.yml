@@ -1,0 +1,152 @@
+name: Extract Fighter Jets (Monthly)
+
+on:
+  schedule:
+    - cron: "0 3 15 * *"   # 03:00 UTC, 15th of the month
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: vehicle-data-write
+  cancel-in-progress: false
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Extract Fighter aircraft
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Fighter aircraft" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Multirole combat aircraft
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Multirole combat aircraft" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Fighter aircraft of the United States
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Fighter aircraft of the United States" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Fighter aircraft of the Soviet Union
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Fighter aircraft of the Soviet Union" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Fighter aircraft of Russia
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Fighter aircraft of Russia" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Fighter aircraft of France
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Fighter aircraft of France" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Fighter aircraft of the United Kingdom
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Fighter aircraft of the United Kingdom" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Fighter aircraft of China
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Fighter aircraft of China" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Jet fighters
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Jet fighters" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Bomber aircraft
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Bomber aircraft" \
+            --limit 200 --resume --translate-fa
+
+      - name: Extract Attack aircraft
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python extractor_bot.py \
+            --category "Attack aircraft" \
+            --limit 200 --resume --translate-fa
+
+      - name: Commit updated data
+        id: commit
+        run: |
+          git config user.name "vehicle-data-bot"
+          git config user.email "actions@github.com"
+          git add public/data/vehicles.json
+          if git diff --cached --quiet; then
+            echo "No new fighter jets found — nothing to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "chore(data): monthly fighter jets extraction $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
+          git push origin main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Trigger site rebuild
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main
