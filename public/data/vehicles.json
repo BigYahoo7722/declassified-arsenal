@@ -2067,5 +2067,1087 @@
     ],
     "specs": {},
     "laymansBrief": "Kamov Ka-32 is a civilian utility helicopter operated by Unknown, introduced in 1985. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-fighter-aircraft",
+    "name": "Fighter aircraft",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Formation_of_a_Legacy%2C_Heritage_flight_merges_aviation_past_and_present_86-16-51-22.jpg/1280px-Formation_of_a_Legacy%2C_Heritage_flight_merges_aviation_past_and_present_86-16-51-22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Fighter aircraft is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-list-of-fighter-aircraft",
+    "name": "List of fighter aircraft",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/1280px-F-16_June_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "List of fighter aircraft is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-air-superiority-fighter",
+    "name": "Air superiority fighter",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/F-15_Eagle_and_F-22_Raptor_-_050812-F-2295B-347.jpg/1280px-F-15_Eagle_and_F-22_Raptor_-_050812-F-2295B-347.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Air superiority fighter is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-arado-e-654",
+    "name": "Arado E.654",
+    "designation": "Heavy fighter project",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Arado Flugzeugwerke",
+    "role": "Heavy fighter project",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Arado E.654 is a heavy fighter project operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-attack-aircraft",
+    "name": "Attack aircraft",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Fairchild_Republic_A-10_Thunderbolt_II_-_32156159151.jpg/1280px-Fairchild_Republic_A-10_Thunderbolt_II_-_32156159151.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Attack aircraft is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bayraktar-k-z-lelma",
+    "name": "Bayraktar Kızılelma",
+    "designation": "Loyal wingman capable stealth multirole unmanned fighter aircraft [ 1 ] [ 2 ] [ 3 ] Artificial intelligence based autonomous aircraft [ 4 ]",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Next-Gen",
+    "yearIntroduced": 2025,
+    "manufacturer": "Baykar",
+    "role": "Loyal wingman capable stealth multirole unmanned fighter aircraft [ 1 ] [ 2 ] [ 3 ] Artificial intelligence based autonomous aircraft [ 4 ]",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Teknofest_%C4%B0stanbul_2023_%28cropped%29.jpg/1280px-Teknofest_%C4%B0stanbul_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "next-gen"
+    ],
+    "specs": {},
+    "laymansBrief": "Bayraktar Kızılelma is a loyal wingman capable stealth multirole unmanned fighter aircraft [ 1 ] [ 2 ] [ 3 ] artificial intelligence based autonomous aircraft [ 4 ] operated by Unknown, introduced in 2025. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bl-riot-spad-s-38",
+    "name": "Blériot-SPAD S.38",
+    "designation": "Fighter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Blériot",
+    "role": "Fighter",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Blériot-SPAD S.38 is a fighter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bl-riot-spad-s-41",
+    "name": "Blériot-SPAD S.41",
+    "designation": "Fighter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Blériot",
+    "role": "Fighter",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Blériot-SPAD S.41 is a fighter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bl-riot-spad-s-60",
+    "name": "Blériot-SPAD S.60",
+    "designation": "Fighter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Blériot",
+    "role": "Fighter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Bl%C3%A9riot-SPAD_S.60_L%27A%C3%A9ronautique_January%2C1926.jpg/1280px-Bl%C3%A9riot-SPAD_S.60_L%27A%C3%A9ronautique_January%2C1926.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Blériot-SPAD S.60 is a fighter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bl-riot-spad-s-70",
+    "name": "Blériot-SPAD S.70",
+    "designation": "Fighter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Blériot",
+    "role": "Fighter",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Blériot-SPAD S.70 is a fighter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bl-riot-spad-s-71",
+    "name": "Blériot-SPAD S.71",
+    "designation": "Fighter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Blériot",
+    "role": "Fighter",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Blériot-SPAD S.71 is a fighter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bl-riot-spad-s-xxi",
+    "name": "Blériot-SPAD S.XXI",
+    "designation": "Fighter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Blériot",
+    "role": "Fighter",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Blériot-SPAD S.XXI is a fighter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bl-riot-spad-s-xxii",
+    "name": "Blériot-SPAD S.XXII",
+    "designation": "Fighter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Blériot",
+    "role": "Fighter",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Blériot-SPAD S.XXII is a fighter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bl-riot-spad-s-xxiv",
+    "name": "Blériot-SPAD S.XXIV",
+    "designation": "Fighter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Blériot",
+    "role": "Fighter",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Blériot-SPAD S.XXIV is a fighter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bomber-destroyer",
+    "name": "Bomber destroyer",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/63/Airacuda_Bell_XFM-1_%2815954491367%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Bomber destroyer is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-century-series",
+    "name": "Century Series",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1e/USAF_Century_Series_Aircraft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Century Series is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-combat-endurance",
+    "name": "Combat endurance",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Combat endurance is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-day-fighter",
+    "name": "Day fighter",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Day fighter is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-emergency-fighter",
+    "name": "Emergency fighter",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Boomerang_-_A46-206_%285720176148%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Emergency fighter is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-escort-fighter",
+    "name": "Escort fighter",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/%22Bottisham_Four%22_-_Four_P-51_Mustangs_fighters_in_flight_%28cropped%29.jpg/1280px-%22Bottisham_Four%22_-_Four_P-51_Mustangs_fighters_in_flight_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Escort fighter is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-heavy-fighter",
+    "name": "Heavy fighter",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mosquito_600pix.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Heavy fighter is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-interceptor-aircraft",
+    "name": "Interceptor aircraft",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/F-106A_Chase_Dart_%28cropped%29.jpg/1280px-F-106A_Chase_Dart_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Interceptor aircraft is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-interdictor",
+    "name": "Interdictor",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/46/RAF_Panavia_Tornado_GR4_%28tone%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Interdictor is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-jet-fighter",
+    "name": "Jet fighter",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Formation_of_a_Legacy%2C_Heritage_flight_merges_aviation_past_and_present_86-16-51-22.jpg/1280px-Formation_of_a_Legacy%2C_Heritage_flight_merges_aviation_past_and_present_86-16-51-22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Jet fighter is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-light-combat-aircraft",
+    "name": "Light combat aircraft",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Aero_L-159_%286063%29_in_flight_%281%29.jpg/1280px-Aero_L-159_%286063%29_in_flight_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Light combat aircraft is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-light-fighter",
+    "name": "Light fighter",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Airmen_work_alongside_Peruvian_military_during_joint_exercise.jpg/1280px-Airmen_work_alongside_Peruvian_military_during_joint_exercise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Light fighter is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-mitsubishi-g6m",
+    "name": "Mitsubishi G6M",
+    "designation": "Heavy fighter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Mitsubishi",
+    "role": "Heavy fighter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/G6M1.JPG/1280px-G6M1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Mitsubishi G6M is a heavy fighter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-multirole-combat-aircraft",
+    "name": "Multirole combat aircraft",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/F-35A_flight.jpg/1280px-F-35A_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Multirole combat aircraft is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-night-fighter",
+    "name": "Night fighter",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7e/J_33_Venom_i_sn%C3%B6_1954.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Night fighter is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "vi-northrop-f-5",
+    "name": "Northrop F-5",
+    "designation": "Light fighter",
+    "nation": "Vietnam War",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1964,
+    "manufacturer": "Northrop Corporation",
+    "role": "Light fighter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/J-3005.jpg/1280px-J-3005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "vietnam war",
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Northrop F-5 is a light fighter operated by Vietnam War, introduced in 1964. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-penetration-fighter",
+    "name": "Penetration fighter",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/North_American_F-93_in_flight.jpg/1280px-North_American_F-93_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Penetration fighter is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-strategic-fighter",
+    "name": "Strategic fighter",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Me110.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Strategic fighter is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-strike-fighter",
+    "name": "Strike fighter",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/F-15E_gbu-28_release.jpg/1280px-F-15E_gbu-28_release.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Strike fighter is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "tr-tai-anka-3",
+    "name": "TAI Anka-3",
+    "designation": "Jet-powered stealth unmanned combat aerial vehicle Artificial intelligence based autonomous aircraft [ 1 ] Loyal wingman drone [ 2 ]",
+    "nation": "Turkey",
+    "domain": "Air",
+    "era": "Next-Gen",
+    "yearIntroduced": 2026,
+    "manufacturer": "Turkish Aerospace Industries",
+    "role": "Jet-powered stealth unmanned combat aerial vehicle Artificial intelligence based autonomous aircraft [ 1 ] Loyal wingman drone [ 2 ]",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/23/H%C3%BCrjet%2C_Anka-3_ve_H%C3%BCrku%C5%9F.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "turkey",
+      "air",
+      "next-gen"
+    ],
+    "specs": {},
+    "laymansBrief": "TAI Anka-3 is a jet-powered stealth unmanned combat aerial vehicle artificial intelligence based autonomous aircraft [ 1 ] loyal wingman drone [ 2 ] operated by Turkey, introduced in 2026. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-teen-series",
+    "name": "Teen Series",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/F-14A_Tomcat_over_Iraq_during_Southern_Watch.jpg/1280px-F-14A_Tomcat_over_Iraq_during_Southern_Watch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Teen Series is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-tai-tf-kaan",
+    "name": "TAI TF Kaan",
+    "designation": "Stealth multirole / air superiority fighter [ 1 ] [ 2 ]",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Next-Gen",
+    "yearIntroduced": 2030,
+    "manufacturer": "Turkish Aerospace Industries (TAI) [ 3 ]",
+    "role": "Stealth multirole / air superiority fighter [ 1 ] [ 2 ]",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/IMG-TAI-TFX.jpg/1280px-IMG-TAI-TFX.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "next-gen"
+    ],
+    "specs": {},
+    "laymansBrief": "TAI TF Kaan is a stealth multirole / air superiority fighter [ 1 ] [ 2 ] operated by Unknown, introduced in 2030. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bomber",
+    "name": "Bomber",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/1280px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Bomber is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-list-of-bomber-aircraft",
+    "name": "List of bomber aircraft",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "List of bomber aircraft is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-list-of-torpedo-bombers",
+    "name": "List of torpedo bombers",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Sopwith_Cuckoo.jpg/1280px-Sopwith_Cuckoo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "List of torpedo bombers is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-assembly-ship",
+    "name": "Assembly ship",
+    "designation": "",
+    "nation": "United States during World War II",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/First_Sergeant_B-24D_Assembly_Ship_or_Judas_Goat.jpg/1280px-First_Sergeant_B-24D_Assembly_Ship_or_Judas_Goat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "united states during world war ii",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Assembly ship is a unknown operated by United States during World War II, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-baba-yaga-aircraft",
+    "name": "Baba Yaga (aircraft)",
+    "designation": "UAV Bomber drone",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Next-Gen",
+    "yearIntroduced": 2022,
+    "manufacturer": "Unknown",
+    "role": "UAV Bomber drone",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/UA_Vampire_UCAV_04.jpg/1280px-UA_Vampire_UCAV_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "next-gen"
+    ],
+    "specs": {},
+    "laymansBrief": "Baba Yaga (aircraft) is a uav bomber drone operated by Unknown, introduced in 2022. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "us-boeing-xb-55",
+    "name": "Boeing XB-55",
+    "designation": "Strategic bomber",
+    "nation": "United States",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Boeing",
+    "role": "Strategic bomber",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Artist_impression_of_the_XB-55_bomber_proposal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "united states",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Boeing XB-55 is a strategic bomber operated by United States, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bomb-bay",
+    "name": "Bomb bay",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Tu2_MLP.jpg/1280px-Tu2_MLP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Bomb bay is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-day-bomber",
+    "name": "Day bomber",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Day bomber is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-dive-bomber",
+    "name": "Dive bomber",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Douglas_SBD_Dauntless_dropping_a_bomb%2C_circa_in_1942.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Dive bomber is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-heavy-bomber",
+    "name": "Heavy bomber",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/B-29_in_flight.jpg/1280px-B-29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Heavy bomber is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-henschel-p-87",
+    "name": "Henschel P.87",
+    "designation": "Bomber",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Henschel",
+    "role": "Bomber",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Henschel P.87 is a bomber operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-light-bomber",
+    "name": "Light bomber",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d7/2_Squadron_RAAF_Hudson_and_personnel_Batchelor_N.T._Oct_1942_AWM_027611.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Light bomber is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-maritime-patrol-aircraft",
+    "name": "Maritime patrol aircraft",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/6e/JMSDF_patrol_aircraft_%28P-1%29_Surveillance_mission.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Maritime patrol aircraft is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-list-of-maritime-patrol-aircraft",
+    "name": "List of maritime patrol aircraft",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/bb/PBY-5A_VP-61_Aleutians_Mar_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "List of maritime patrol aircraft is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-medium-bomber",
+    "name": "Medium bomber",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d1/B25B_mitchell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Medium bomber is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-night-bomber",
+    "name": "Night bomber",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/22/Armstrong_Whitworth_Whitley_in_flight_c1940.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Night bomber is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-penetrator-aircraft",
+    "name": "Penetrator (aircraft)",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/B-1B_over_the_pacific_ocean.jpg/1280px-B-1B_over_the_pacific_ocean.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Penetrator (aircraft) is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-schnellbomber",
+    "name": "Schnellbomber",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bundesarchiv_Bild_101I-342-0603-25%2C_Belgien-Frankreich%2C_Flugzeuge_Dornier_Do_17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Schnellbomber is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-strategic-bomber",
+    "name": "Strategic bomber",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7d/B-1B_air_refueling.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Strategic bomber is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-torpedo-bomber",
+    "name": "Torpedo bomber",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/29/Fairey_Swordfish_Torpedo_Bomber_at_Shoreham_1_%289843129164%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Torpedo bomber is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-weiss-wm-16",
+    "name": "Weiss WM-16",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Weiss_Manfr%C3%A9d_WM-16_-_%28Fokker_C.VD%29_t%C3%ADpus%C3%BA_rep%C3%BCl%C5%91g%C3%A9p._Fortepan_8607.jpg/1280px-Weiss_Manfr%C3%A9d_WM-16_-_%28Fokker_C.VD%29_t%C3%ADpus%C3%BA_rep%C3%BCl%C5%91g%C3%A9p._Fortepan_8607.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Weiss WM-16 is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "su-yakovlev-yak-35",
+    "name": "Yakovlev Yak-35",
+    "designation": "Strategic bomber",
+    "nation": "Soviet Union",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "OKB-115 / Yakovlev",
+    "role": "Strategic bomber",
+    "thumbnail": "",
+    "tags": [
+      "soviet union",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Yakovlev Yak-35 is a strategic bomber operated by Soviet Union, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-list-of-attack-aircraft",
+    "name": "List of attack aircraft",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "List of attack aircraft is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-boeing-f-a-18e-f-super-hornet",
+    "name": "Boeing F/A-18E/F Super Hornet",
+    "designation": "Carrier-based multirole fighter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Post-Cold War",
+    "yearIntroduced": 1999,
+    "manufacturer": "McDonnell Douglas (1995–1997) Boeing Defense, Space & Security (1997–present)",
+    "role": "Carrier-based multirole fighter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/de/US_Navy_071203-N-8923M-074_An_F-A-18F_Super_Hornet%2C_from_the_Red_Rippers_of_Strike_Fighter_Squadron_%28VFA%29_11%2C_makes_a_sharp_turn_above_the_flight_deck_aboard_the_Nimitz-class_nuclear-powered_aircraft_carrier_USS_Harry_S._Truman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "post-cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Boeing F/A-18E/F Super Hornet is a carrier-based multirole fighter operated by Unknown, introduced in 1999. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-fighter-bomber",
+    "name": "Fighter-bomber",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Fighter-bomber is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-flying-bomb",
+    "name": "Flying bomb",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Land",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bundesarchiv_Bild_146-1975-117-26%2C_Marschflugk%C3%B6rper_V1_vor_Start.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "land"
+    ],
+    "specs": {},
+    "laymansBrief": "Flying bomb is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-future-combat-air-system-uk",
+    "name": "Future Combat Air System (UK)",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Land",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "land"
+    ],
+    "specs": {},
+    "laymansBrief": "Future Combat Air System (UK) is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
   }
 ]
