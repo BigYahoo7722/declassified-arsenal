@@ -11,7 +11,15 @@
     "role": "High-Altitude Interceptor",
     "thumbnail": "",
     "laymansBrief": "The J-8A was built around a single idea: get high and get there fast, before the other side even knows you're coming. It traded dogfighting agility for a long, needle-nosed airframe that could sprint past twice the speed of sound and claw up past 20,000 meters — enough to reach and down high-flying bombers and reconnaissance aircraft that older Chinese fighters simply couldn't touch. It's less a knife-fighter and more a gatekeeper for the upper sky.",
-    "tags": ["china", "interceptor", "jet", "fighter", "cold war", "finback", "pla air force"],
+    "tags": [
+      "china",
+      "interceptor",
+      "jet",
+      "fighter",
+      "cold war",
+      "finback",
+      "pla air force"
+    ],
     "specs": {
       "crew": "1",
       "length": "21.59 m",
@@ -35,7 +43,15 @@
     "role": "Main Battle Tank",
     "thumbnail": "",
     "laymansBrief": "The M1A2 is built on a simple trade: burn fuel fast in exchange for surviving almost anything. Its gas-turbine engine gives it a sprint speed that lets it outmaneuver older tanks, while layered composite armor around the crew compartment is designed so that if it does get hit, the crew walks away. The 120mm cannon and networked targeting sensors mean it's built to see and kill first, rather than trade blows.",
-    "tags": ["usa", "tank", "mbt", "armor", "abrams", "army", "post cold war"],
+    "tags": [
+      "usa",
+      "tank",
+      "mbt",
+      "armor",
+      "abrams",
+      "army",
+      "post cold war"
+    ],
     "specs": {
       "crew": "4",
       "length": "9.83 m (gun forward)",
@@ -59,7 +75,15 @@
     "role": "Main Battle Tank",
     "thumbnail": "",
     "laymansBrief": "Most tanks put the engine at the back to protect the crew from a rear-facing threat; the Merkava puts it at the front, on purpose. That single design choice turns the rear of the hull into an armored compartment that can evacuate wounded crew or carry infantry, reflecting a doctrine built around crew survivability above almost everything else. Add an active protection system that shoots down incoming anti-tank missiles before impact, and the philosophy becomes clear: bring everyone home.",
-    "tags": ["israel", "tank", "mbt", "merkava", "armor", "idf", "modern"],
+    "tags": [
+      "israel",
+      "tank",
+      "mbt",
+      "merkava",
+      "armor",
+      "idf",
+      "modern"
+    ],
     "specs": {
       "crew": "4 (+ up to 6 dismounts)",
       "length": "9.04 m (gun forward)",
@@ -83,7 +107,16 @@
     "role": "Air Superiority & Multirole Fighter",
     "thumbnail": "",
     "laymansBrief": "The Typhoon was designed as a compromise made deliberately, not by accident: a relaxed-stability delta-canard airframe that's naturally unstable and needs constant computer correction to fly, which is exactly what makes it so agile in a dogfight. It was built by four nations that each wanted a different aircraft, and the result is a jack-of-all-trades that can intercept, escort, and drop precision munitions in the same sortie rather than being locked into a single job.",
-    "tags": ["eurofighter", "typhoon", "multinational", "fighter", "jet", "raf", "modern", "nato"],
+    "tags": [
+      "eurofighter",
+      "typhoon",
+      "multinational",
+      "fighter",
+      "jet",
+      "raf",
+      "modern",
+      "nato"
+    ],
     "specs": {
       "crew": "1 (2 for trainer variant)",
       "length": "15.96 m",
@@ -94,5 +127,1945 @@
       "powerplant": "2x Eurojet EJ200 turbofans w/ afterburner",
       "armament": "1x 27mm Mauser cannon, 13 hardpoints (AMRAAM / ASRAAM / Meteor)"
     }
+  },
+  {
+    "id": "un-military-helicopter",
+    "name": "Military helicopter",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Jordanian_Air_Force_UH-60_Black_Hawk_helicopter_%28cropped%29.jpg/1280px-Jordanian_Air_Force_UH-60_Black_Hawk_helicopter_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Military helicopter is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-aeg-helicopter",
+    "name": "AEG helicopter",
+    "designation": "Tethered observation helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "AEG",
+    "role": "Tethered observation helicopter",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "AEG helicopter is a tethered observation helicopter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-agustawestland-aw149",
+    "name": "AgustaWestland AW149",
+    "designation": "Medium-lift military helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "AgustaWestland Finmeccanica Leonardo S.p.A.",
+    "role": "Medium-lift military helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/AW-149_%2852229093839%29.jpg/1280px-AW-149_%2852229093839%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "AgustaWestland AW149 is a medium-lift military helicopter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-agustawestland-aw159-wildcat",
+    "name": "AgustaWestland AW159 Wildcat",
+    "designation": "Utility , SAR and ASuW helicopter",
+    "nation": "Unknown",
+    "domain": "Sea",
+    "era": "Modern",
+    "yearIntroduced": 2014,
+    "manufacturer": "AgustaWestland Leonardo",
+    "role": "Utility , SAR and ASuW helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Royal_Navy_Wildcat_Helicopter_MOD_45158434.jpg/1280px-Royal_Navy_Wildcat_Helicopter_MOD_45158434.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "sea",
+      "modern"
+    ],
+    "specs": {},
+    "laymansBrief": "AgustaWestland AW159 Wildcat is a utility , sar and asuw helicopter operated by Unknown, introduced in 2014. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-anti-tank-helicopter",
+    "name": "Anti-tank helicopter",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/fa/FMB.002843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Anti-tank helicopter is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-armed-helicopter",
+    "name": "Armed helicopter",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/60/UH-1B_Iroquois_Vietnam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Armed helicopter is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "so-atlas-oryx",
+    "name": "Atlas Oryx",
+    "designation": "Utility helicopter",
+    "nation": "South Africa",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1987,
+    "manufacturer": "Atlas Aircraft Corporation",
+    "role": "Utility helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/SAAF-Atlas_Oryx-001_%28cropped%29.jpg/1280px-SAAF-Atlas_Oryx-001_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "south africa",
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Atlas Oryx is a utility helicopter operated by South Africa, introduced in 1987. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "so-atlas-xh-1-alpha",
+    "name": "Atlas XH-1 Alpha",
+    "designation": "Prototype",
+    "nation": "South Africa",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Atlas Aviation Denel",
+    "role": "Prototype",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/16/XH-1_Alpha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "south africa",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Atlas XH-1 Alpha is a prototype operated by South Africa, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-aviation-capable-naval-vessel",
+    "name": "Aviation-capable naval vessel",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/US_Navy_100407-N-8878B-053_The_littoral_combat_ship_USS_Freedom_%28LCS_1%29_is_underway_in_the_Pacific_Ocean.jpg/1280px-US_Navy_100407-N-8878B-053_The_littoral_combat_ship_USS_Freedom_%28LCS_1%29_is_underway_in_the_Pacific_Ocean.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Aviation-capable naval vessel is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bell-ch-146-griffon",
+    "name": "Bell CH-146 Griffon",
+    "designation": "Utility helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Post-Cold War",
+    "yearIntroduced": 1995,
+    "manufacturer": "Bell Helicopter",
+    "role": "Utility helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bell_CH-146_Griffon_%28412CF%29%2C_Canada_-_Air_Force_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "post-cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Bell CH-146 Griffon is a utility helicopter operated by Unknown, introduced in 1995. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "su-bratukhin-b-5",
+    "name": "Bratukhin B-5",
+    "designation": "Transport helicopter",
+    "nation": "Soviet Union",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Bratukhin",
+    "role": "Transport helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bratukhin_B-5.jpg/1280px-Bratukhin_B-5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "soviet union",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Bratukhin B-5 is a transport helicopter operated by Soviet Union, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "su-bratukhin-b-11",
+    "name": "Bratukhin B-11",
+    "designation": "Transport helicopter",
+    "nation": "Soviet Union",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Bratukhin",
+    "role": "Transport helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bratukhin_B-11_top-view_silhouette.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "soviet union",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Bratukhin B-11 is a transport helicopter operated by Soviet Union, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "su-bratukhin-omega",
+    "name": "Bratukhin Omega",
+    "designation": "Experimental helicopter",
+    "nation": "Soviet Union",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Bratukhin",
+    "role": "Experimental helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bratukhin_B-11_top-view_silhouette.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "soviet union",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Bratukhin Omega is a experimental helicopter operated by Soviet Union, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-changhe-z-11",
+    "name": "Changhe Z-11",
+    "designation": "Light utility helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Post-Cold War",
+    "yearIntroduced": 1998,
+    "manufacturer": "Changhe Aircraft Industries Corporation",
+    "role": "Light utility helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Changhe_Z-11WB%2C_Zhuhai-Jinwan_4th_November_2016_%2831829381252%29.jpg/1280px-Changhe_Z-11WB%2C_Zhuhai-Jinwan_4th_November_2016_%2831829381252%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "post-cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Changhe Z-11 is a light utility helicopter operated by Unknown, introduced in 1998. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-cicar-ch-14-aguilucho",
+    "name": "Cicaré CH-14 Aguilucho",
+    "designation": "Observation helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Cicare Helicopteros S.A.",
+    "role": "Observation helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Cicar%C3%A9_CH-14_Aguilucho_%28cropped%29.jpg/1280px-Cicar%C3%A9_CH-14_Aguilucho_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Cicaré CH-14 Aguilucho is a observation helicopter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-eurocopter-as532-cougar",
+    "name": "Eurocopter AS532 Cougar",
+    "designation": "Medium utility military helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1978,
+    "manufacturer": "Aérospatiale Eurocopter Airbus Helicopters",
+    "role": "Medium utility military helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Eurocopter_AS-532UL_Cougar%2C_France_-_Army_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Eurocopter AS532 Cougar is a medium utility military helicopter operated by Unknown, introduced in 1978. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-eurocopter-as565-panther",
+    "name": "Eurocopter AS565 Panther",
+    "designation": "utility military helicopter",
+    "nation": "Unknown",
+    "domain": "Sea",
+    "era": "Cold War",
+    "yearIntroduced": 1986,
+    "manufacturer": "Aérospatiale Eurocopter Airbus Helicopters",
+    "role": "utility military helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/French_Navy_Aircraft_Lands_on_USS_Arlington_%28cropped%29.jpg/1280px-French_Navy_Aircraft_Lands_on_USS_Arlington_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "sea",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Eurocopter AS565 Panther is a utility military helicopter operated by Unknown, introduced in 1986. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-eurocopter-ec635",
+    "name": "Eurocopter EC635",
+    "designation": "Light utility military helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Post-Cold War",
+    "yearIntroduced": 1998,
+    "manufacturer": "Eurocopter Airbus Helicopters",
+    "role": "Light utility military helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/82/Eurocopter_EC-635_P2_Switzerland_-_Air_Force_T-358%2C_LSMA_Alpnach%2C_Switzerland_%28modified%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "post-cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Eurocopter EC635 is a light utility military helicopter operated by Unknown, introduced in 1998. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-eurocopter-ec725",
+    "name": "Eurocopter EC725",
+    "designation": "Tactical transport helicopter / armed helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Modern",
+    "yearIntroduced": 2005,
+    "manufacturer": "Eurocopter Airbus Helicopters",
+    "role": "Tactical transport helicopter / armed helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/French_Air_Force_EC725_lift_off.jpg/1280px-French_Air_Force_EC725_lift_off.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "modern"
+    ],
+    "specs": {},
+    "laymansBrief": "Eurocopter EC725 is a tactical transport helicopter / armed helicopter operated by Unknown, introduced in 2005. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-eurocopter-fennec",
+    "name": "Eurocopter Fennec",
+    "designation": "Light utility military helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1990,
+    "manufacturer": "Aérospatiale Eurocopter Airbus Helicopters",
+    "role": "Light utility military helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/F-RAVE_-_Arm%C3%A9e_de_l%27air_-_AS-555_Fennec_-_LFBD_%28rotated%29.jpg/1280px-F-RAVE_-_Arm%C3%A9e_de_l%27air_-_AS-555_Fennec_-_LFBD_%28rotated%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Eurocopter Fennec is a light utility military helicopter operated by Unknown, introduced in 1990. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-eurocopter-mh-65-dolphin",
+    "name": "Eurocopter MH-65 Dolphin",
+    "designation": "Search and rescue helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1985,
+    "manufacturer": "Aérospatiale Helicopter Corporation American Eurocopter",
+    "role": "Search and rescue helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/MH65E_Hover.jpg/1280px-MH65E_Hover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Eurocopter MH-65 Dolphin is a search and rescue helicopter operated by Unknown, introduced in 1985. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-eurocopter-uh-72-lakota",
+    "name": "Eurocopter UH-72 Lakota",
+    "designation": "Light utility military helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Modern",
+    "yearIntroduced": 2007,
+    "manufacturer": "Eurocopter Airbus Helicopters",
+    "role": "Light utility military helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/UH-72_Volk_field.jpg/1280px-UH-72_Volk_field.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "modern"
+    ],
+    "specs": {},
+    "laymansBrief": "Eurocopter UH-72 Lakota is a light utility military helicopter operated by Unknown, introduced in 2007. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "na-focke-wulf-fw-61",
+    "name": "Focke-Wulf Fw 61",
+    "designation": "Helicopter",
+    "nation": "Nazi period",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1936,
+    "manufacturer": "Focke-Wulf Focke-Achgelis",
+    "role": "Helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Fw_61_V.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "nazi period",
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Focke-Wulf Fw 61 is a helicopter operated by Nazi period, introduced in 1936. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "us-future-attack-reconnaissance-aircraft",
+    "name": "Future Attack Reconnaissance Aircraft",
+    "designation": "",
+    "nation": "United States",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "united states",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Future Attack Reconnaissance Aircraft is a unknown operated by United States, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-hal-dhruv",
+    "name": "HAL Dhruv",
+    "designation": "Utility helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Modern",
+    "yearIntroduced": 2002,
+    "manufacturer": "Hindustan Aeronautics Limited",
+    "role": "Utility helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Indian_air_force_dhruv_helicopter_j4042_arp.jpg/1280px-Indian_air_force_dhruv_helicopter_j4042_arp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "modern"
+    ],
+    "specs": {},
+    "laymansBrief": "HAL Dhruv is a utility helicopter operated by Unknown, introduced in 2002. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-hal-rudra",
+    "name": "HAL Rudra",
+    "designation": "Armed helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Modern",
+    "yearIntroduced": 2012,
+    "manufacturer": "Hindustan Aeronautics Limited",
+    "role": "Armed helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/55/Advanced_Light_Helicopter_ALH_Rudra_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "modern"
+    ],
+    "specs": {},
+    "laymansBrief": "HAL Rudra is a armed helicopter operated by Unknown, introduced in 2012. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-hal-light-utility-helicopter",
+    "name": "HAL Light Utility Helicopter",
+    "designation": "Utility helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Next-Gen",
+    "yearIntroduced": 2026,
+    "manufacturer": "Hindustan Aeronautics Limited",
+    "role": "Utility helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Aero_India_2025_HAL_LUH_IAF_Camo.jpg/1280px-Aero_India_2025_HAL_LUH_IAF_Camo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "next-gen"
+    ],
+    "specs": {},
+    "laymansBrief": "HAL Light Utility Helicopter is a utility helicopter operated by Unknown, introduced in 2026. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-harbin-z-5",
+    "name": "Harbin Z-5",
+    "designation": "Transport helicopter / Utility helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Harbin Aircraft Manufacturing Corporation",
+    "role": "Transport helicopter / Utility helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/52/%E5%93%88%E7%88%BE%E6%BF%B1Z-5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Harbin Z-5 is a transport helicopter / utility helicopter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-harbin-z-9",
+    "name": "Harbin Z-9",
+    "designation": "Medium multi-purpose utility helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Post-Cold War",
+    "yearIntroduced": 1994,
+    "manufacturer": "Harbin Aircraft Manufacturing Corporation",
+    "role": "Medium multi-purpose utility helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Chinese_Helicopter_Lands_on_HMS_Cornwall_MOD_45150752.jpg/1280px-Chinese_Helicopter_Lands_on_HMS_Cornwall_MOD_45150752.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "post-cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Harbin Z-9 is a medium multi-purpose utility helicopter operated by Unknown, introduced in 1994. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-harbin-z-19",
+    "name": "Harbin Z-19",
+    "designation": "Reconnaissance and attack helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Modern",
+    "yearIntroduced": 2012,
+    "manufacturer": "Harbin Aircraft Manufacturing Corporation",
+    "role": "Reconnaissance and attack helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Harbin_Z-19_helicopter_%28cropped%29.jpg/1280px-Harbin_Z-19_helicopter_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "modern"
+    ],
+    "specs": {},
+    "laymansBrief": "Harbin Z-19 is a reconnaissance and attack helicopter operated by Unknown, introduced in 2012. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-harbin-z-20",
+    "name": "Harbin Z-20",
+    "designation": "Medium lift helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Next-Gen",
+    "yearIntroduced": 2019,
+    "manufacturer": "Harbin Aircraft Industry Group",
+    "role": "Medium lift helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Z-20_Airshow_China_2022_fly.jpg/1280px-Z-20_Airshow_China_2022_fly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "next-gen"
+    ],
+    "specs": {},
+    "laymansBrief": "Harbin Z-20 is a medium lift helicopter operated by Unknown, introduced in 2019. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-harbin-z-21",
+    "name": "Harbin Z-21",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Harbin Z-21 is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "ir-hesa-shahed-278",
+    "name": "HESA Shahed 278",
+    "designation": "Light utility helicopter",
+    "nation": "Iran",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "HESA",
+    "role": "Light utility helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/60/Shahed_278.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "iran",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "HESA Shahed 278 is a light utility helicopter operated by Iran, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "ir-hesa-shahed-285",
+    "name": "HESA Shahed 285",
+    "designation": "light attack/reconnaissance helicopter",
+    "nation": "Iran",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "HESA",
+    "role": "light attack/reconnaissance helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Iranian_Revolutionary_Guard_Air_Force_Shahed_285_Sharifi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "iran",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "HESA Shahed 285 is a light attack/reconnaissance helicopter operated by Iran, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-hiller-camel",
+    "name": "Hiller CAMEL",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Hiller CAMEL is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-hiller-yh-32-hornet",
+    "name": "Hiller YH-32 Hornet",
+    "designation": "Experimental helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1954,
+    "manufacturer": "Hiller Aircraft",
+    "role": "Experimental helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Hiller_YH-32_Hornet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Hiller YH-32 Hornet is a experimental helicopter operated by Unknown, introduced in 1954. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-hiller-roe-rotorcycle",
+    "name": "Hiller ROE Rotorcycle",
+    "designation": "ultralight helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1957,
+    "manufacturer": "Hiller Aircraft Saunders-Roe",
+    "role": "ultralight helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Hiller_YROE-1.jpg/1280px-Hiller_YROE-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Hiller ROE Rotorcycle is a ultralight helicopter operated by Unknown, introduced in 1957. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-iar-316",
+    "name": "IAR 316",
+    "designation": "Light utility /training helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1971,
+    "manufacturer": "Industria Aeronautică Română",
+    "role": "Light utility /training helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Romanian_IAR_316_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "IAR 316 is a light utility /training helicopter operated by Unknown, introduced in 1971. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-iar-330",
+    "name": "IAR 330",
+    "designation": "Utility helicopter / gunship / naval helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Industria Aeronautică Română",
+    "role": "Utility helicopter / gunship / naval helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Romanian_air_force_IAR_330_Puma_during_Carpathian_Summer_19_%28cropped%29.jpg/1280px-Romanian_air_force_IAR_330_Puma_during_Carpathian_Summer_19_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "IAR 330 is a utility helicopter / gunship / naval helicopter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-in-the-shadow-of-the-blade",
+    "name": "In the Shadow of the Blade",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "In the Shadow of the Blade is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-kamov-ka-20",
+    "name": "Kamov Ka-20",
+    "designation": "Prototype helicopter",
+    "nation": "Unknown",
+    "domain": "Sea",
+    "era": "Cold War",
+    "yearIntroduced": 1961,
+    "manufacturer": "Kamov",
+    "role": "Prototype helicopter",
+    "thumbnail": "",
+    "tags": [
+      "sea",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Kamov Ka-20 is a prototype helicopter operated by Unknown, introduced in 1961. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-kamov-ka-27",
+    "name": "Kamov Ka-27",
+    "designation": "Anti-submarine warfare helicopter (Ka-27/Ka-28) Attack helicopter with transport capabilities (Ka-29) Civilian utility helicopter (Ka-32)",
+    "nation": "Unknown",
+    "domain": "Sea",
+    "era": "Cold War",
+    "yearIntroduced": 1982,
+    "manufacturer": "Kamov",
+    "role": "Anti-submarine warfare helicopter (Ka-27/Ka-28) Attack helicopter with transport capabilities (Ka-29) Civilian utility helicopter (Ka-32)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/A_Russian_Helix_KA-27_%28cropped%29.jpg/1280px-A_Russian_Helix_KA-27_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "sea",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Kamov Ka-27 is a anti-submarine warfare helicopter (ka-27/ka-28) attack helicopter with transport capabilities (ka-29) civilian utility helicopter (ka-32) operated by Unknown, introduced in 1982. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-kamov-ka-31",
+    "name": "Kamov Ka-31",
+    "designation": "Airborne early warning and control",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Post-Cold War",
+    "yearIntroduced": 1995,
+    "manufacturer": "Kamov",
+    "role": "Airborne early warning and control",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/63/Russian_Navy_Kamov_Ka-31.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "post-cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Kamov Ka-31 is a airborne early warning and control operated by Unknown, introduced in 1995. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-kamov-ka-60",
+    "name": "Kamov Ka-60",
+    "designation": "Transport/utility helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Kamov",
+    "role": "Transport/utility helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/71/Kamov_Ka-60_Kasatka%2C_Kamov_AN2139086.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Kamov Ka-60 is a transport/utility helicopter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-kamov-ka-65",
+    "name": "Kamov Ka-65",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Kamov Ka-65 is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-kawasaki-oh-1",
+    "name": "Kawasaki OH-1",
+    "designation": "Scout/observation helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Post-Cold War",
+    "yearIntroduced": 2000,
+    "manufacturer": "Kawasaki Aerospace Company",
+    "role": "Scout/observation helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d5/%EF%BC%AF%EF%BC%A8%EF%BC%8D%EF%BC%91_%284%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "post-cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Kawasaki OH-1 is a scout/observation helicopter operated by Unknown, introduced in 2000. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "us-light-helicopter-experimental",
+    "name": "Light Helicopter Experimental",
+    "designation": "",
+    "nation": "United States",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/87/Rah-66_c._2000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "united states",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Light Helicopter Experimental is a unknown operated by United States, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-list-of-mil-mi-24-variants",
+    "name": "List of Mil Mi-24 variants",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Mil_Mi-24_early_series_comparison_line_drawing.png/1280px-Mil_Mi-24_early_series_comparison_line_drawing.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "List of Mil Mi-24 variants is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "eu-list-of-military-rotorcraft-in-production-and-in-development-by-the-european-defence-industry",
+    "name": "List of military rotorcraft in production and in development by the European defence industry",
+    "designation": "",
+    "nation": "Europe",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "europe",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "List of military rotorcraft in production and in development by the European defence industry is a unknown operated by Europe, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-mbb-bo-105",
+    "name": "MBB Bo 105",
+    "designation": "Light utility helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1970,
+    "manufacturer": "Messerschmitt-Bölkow-Blohm (MBB)",
+    "role": "Light utility helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/11/MBB_BO-105CBS-5%2C_Luftrettung_-_Bundesministerium_des_Innern_%28modified%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "MBB Bo 105 is a light utility helicopter operated by Unknown, introduced in 1970. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-merckle-sm-67",
+    "name": "Merckle SM 67",
+    "designation": "Light utility helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Süddeutsche Flugzeugwerke K. E. Merckle",
+    "role": "Light utility helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/58/Merckle_SM_67_V2_im_Hubschraubermuseum_B%C3%BCckeburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Merckle SM 67 is a light utility helicopter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-mil-mi-1",
+    "name": "Mil Mi-1",
+    "designation": "Utility helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1950,
+    "manufacturer": "Mil Moscow Helicopter Plant and other Soviet national plants, WSK PZL-Świdnik ,",
+    "role": "Utility helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mil_Mi-1_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Mil Mi-1 is a utility helicopter operated by Unknown, introduced in 1950. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-mil-mi-2",
+    "name": "Mil Mi-2",
+    "designation": "Utility helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1965,
+    "manufacturer": "Mil Moscow Helicopter Plant",
+    "role": "Utility helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Mil_mi-2%28modified%29.jpg/1280px-Mil_mi-2%28modified%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Mil Mi-2 is a utility helicopter operated by Unknown, introduced in 1965. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-mil-mi-4",
+    "name": "Mil Mi-4",
+    "designation": "Transport helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1953,
+    "manufacturer": "Mil Moscow Helicopter Plant",
+    "role": "Transport helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Mi-4-JH01_%28remix%29.jpg/1280px-Mi-4-JH01_%28remix%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Mil Mi-4 is a transport helicopter operated by Unknown, introduced in 1953. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-mil-mi-6",
+    "name": "Mil Mi-6",
+    "designation": "Heavy transport helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Mil Moscow Helicopter Plant",
+    "role": "Heavy transport helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mi-6_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Mil Mi-6 is a heavy transport helicopter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-mil-mi-10",
+    "name": "Mil Mi-10",
+    "designation": "Aerial crane",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1963,
+    "manufacturer": "Mil Moscow Helicopter Plant",
+    "role": "Aerial crane",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mil_Mi-10_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9C%D0%B8%D0%BB%D1%8F.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Mil Mi-10 is a aerial crane operated by Unknown, introduced in 1963. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-mitsubishi-h-60",
+    "name": "Mitsubishi H-60",
+    "designation": "ASW / SAR helicopter",
+    "nation": "Unknown",
+    "domain": "Sea",
+    "era": "Post-Cold War",
+    "yearIntroduced": 1991,
+    "manufacturer": "Sikorsky Aircraft Mitsubishi Heavy Industries",
+    "role": "ASW / SAR helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b9/SH-60J_landing_%28modified%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "sea",
+      "post-cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Mitsubishi H-60 is a asw / sar helicopter operated by Unknown, introduced in 1991. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-nhindustries-nh90",
+    "name": "NHIndustries NH90",
+    "designation": "Medium utility military helicopter",
+    "nation": "Unknown",
+    "domain": "Sea",
+    "era": "Modern",
+    "yearIntroduced": 2007,
+    "manufacturer": "NHIndustries",
+    "role": "Medium utility military helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/French_Navy_NH90_lands_on_USS_Antietam_%28CG-54%29_in_the_Bay_of_Bengal_%28cropped%29.jpg/1280px-French_Navy_NH90_lands_on_USS_Antietam_%28CG-54%29_in_the_Bay_of_Bengal_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "sea",
+      "modern"
+    ],
+    "specs": {},
+    "laymansBrief": "NHIndustries NH90 is a medium utility military helicopter operated by Unknown, introduced in 2007. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-operators-of-the-nhindustries-nh-90",
+    "name": "Operators of the NHIndustries NH-90",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Sea",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "sea"
+    ],
+    "specs": {},
+    "laymansBrief": "Operators of the NHIndustries NH-90 is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-panha-2091",
+    "name": "Panha 2091",
+    "designation": "Attack helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Post-Cold War",
+    "yearIntroduced": 1998,
+    "manufacturer": "Bell Helicopter Textron Panha",
+    "role": "Attack helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Balgard_tofan6_%28cropped%29.jpg/1280px-Balgard_tofan6_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "post-cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Panha 2091 is a attack helicopter operated by Unknown, introduced in 1998. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-percival-p-74",
+    "name": "Percival P.74",
+    "designation": "Helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Percival Aircraft Company",
+    "role": "Helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Percival_p-74.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Percival P.74 is a helicopter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-pzl-w-3-sok",
+    "name": "PZL W-3 Sokół",
+    "designation": "Multipurpose utility helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1987,
+    "manufacturer": "PZL-Świdnik",
+    "role": "Multipurpose utility helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Czech_Air_Force_PZL_W-3A_Sok%C3%B3%C5%82_0713_Royal_International_Air_Tattoo_2025_05.jpg/1280px-Czech_Air_Force_PZL_W-3A_Sok%C3%B3%C5%82_0713_Royal_International_Air_Tattoo_2025_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "PZL W-3 Sokół is a multipurpose utility helicopter operated by Unknown, introduced in 1987. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "wo-list-of-rotorcraft-used-in-world-war-ii",
+    "name": "List of rotorcraft used in World War II",
+    "designation": "",
+    "nation": "World War II aircraft",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "world war ii aircraft",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "List of rotorcraft used in World War II is a unknown operated by World War II aircraft, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "au-schiebel-camcopter-s-100",
+    "name": "Schiebel Camcopter S-100",
+    "designation": "UAV",
+    "nation": "Austria",
+    "domain": "Air",
+    "era": "Modern",
+    "yearIntroduced": 2005,
+    "manufacturer": "Schiebel , Austria",
+    "role": "UAV",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Camcopter_S-100_im_Einsatz_f%C3%BCr_die_EMSA_%282021%29.jpg/1280px-Camcopter_S-100_im_Einsatz_f%C3%BCr_die_EMSA_%282021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "austria",
+      "air",
+      "modern"
+    ],
+    "specs": {},
+    "laymansBrief": "Schiebel Camcopter S-100 is a uav operated by Austria, introduced in 2005. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-shipboard-helicopter-operations",
+    "name": "Shipboard helicopter operations",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/SH-60B_Seahawk_lands_aboard_the_RSS_Steadfast_%28FFG_70%29.jpg/1280px-SH-60B_Seahawk_lands_aboard_the_RSS_Steadfast_%28FFG_70%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Shipboard helicopter operations is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-sikorsky-ch-148-cyclone",
+    "name": "Sikorsky CH-148 Cyclone",
+    "designation": "Maritime helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Next-Gen",
+    "yearIntroduced": 2018,
+    "manufacturer": "Sikorsky Aircraft",
+    "role": "Maritime helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Canadian_CH-148_Departs_Flight_Deck_During_Keen_Sword_21_%28cropped%29.jpg/1280px-Canadian_CH-148_Departs_Flight_Deck_During_Keen_Sword_21_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "next-gen"
+    ],
+    "specs": {},
+    "laymansBrief": "Sikorsky CH-148 Cyclone is a maritime helicopter operated by Unknown, introduced in 2018. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-pzl-sm-2",
+    "name": "PZL SM-2",
+    "designation": "light utility helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1961,
+    "manufacturer": "WSK PZL-Świdnik",
+    "role": "light utility helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Sm-2.JPG/1280px-Sm-2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "PZL SM-2 is a light utility helicopter operated by Unknown, introduced in 1961. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-tai-t625-g-kbey",
+    "name": "TAI T625 Gökbey",
+    "designation": "Utility helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Next-Gen",
+    "yearIntroduced": 2024,
+    "manufacturer": "Turkish Aerospace Industries",
+    "role": "Utility helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/TAI_T625_G%C3%B6kbey_TC-HLV.png/1280px-TAI_T625_G%C3%B6kbey_TC-HLV.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "next-gen"
+    ],
+    "specs": {},
+    "laymansBrief": "TAI T625 Gökbey is a utility helicopter operated by Unknown, introduced in 2024. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-tai-t925",
+    "name": "TAI T925",
+    "designation": "heavy multirole helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Turkish Aerospace Industries",
+    "role": "heavy multirole helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/81/TAI_T925.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "TAI T925 is a heavy multirole helicopter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bell-uh-1n-twin-huey",
+    "name": "Bell UH-1N Twin Huey",
+    "designation": "Utility helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1970,
+    "manufacturer": "Bell Helicopter",
+    "role": "Utility helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/120131-N-XK513-120_Sailor_directs_a_UH-1N_Huey_helicopter_from_%28VMM%29_261_%28cropped%29.jpg/1280px-120131-N-XK513-120_Sailor_directs_a_UH-1N_Huey_helicopter_from_%28VMM%29_261_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Bell UH-1N Twin Huey is a utility helicopter operated by Unknown, introduced in 1970. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "se-ums-skeldar-v-200",
+    "name": "UMS Skeldar V-200",
+    "designation": "UAV helicopter",
+    "nation": "Sweden",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "UMS Skeldar",
+    "role": "UAV helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/45/Skeldar_V-200_German_Navy_ILA-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "sweden",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "UMS Skeldar V-200 is a uav helicopter operated by Sweden, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "us-unmanned-combat-armed-rotorcraft",
+    "name": "Unmanned Combat Armed Rotorcraft",
+    "designation": "",
+    "nation": "United States",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "united states",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Unmanned Combat Armed Rotorcraft is a unknown operated by United States, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-westland-lynx",
+    "name": "Westland Lynx",
+    "designation": "Multi-purpose military helicopter",
+    "nation": "Unknown",
+    "domain": "Sea",
+    "era": "Cold War",
+    "yearIntroduced": 1978,
+    "manufacturer": "Westland Helicopters AgustaWestland [ citation needed ]",
+    "role": "Multi-purpose military helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/British_Lynx_landing_on_Kearsarge.jpg/1280px-British_Lynx_landing_on_Kearsarge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "sea",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Westland Lynx is a multi-purpose military helicopter operated by Unknown, introduced in 1978. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-westland-scout",
+    "name": "Westland Scout",
+    "designation": "Helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Westland Helicopters",
+    "role": "Helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/47/Scout_-_RIAT_2005_%282533967267%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Westland Scout is a helicopter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-westland-wasp",
+    "name": "Westland Wasp",
+    "designation": "Helicopter",
+    "nation": "Unknown",
+    "domain": "Sea",
+    "era": "Cold War",
+    "yearIntroduced": 1963,
+    "manufacturer": "Westland Helicopters",
+    "role": "Helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Westland_Wasp_422_%28cropped%29.jpg/1280px-Westland_Wasp_422_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "sea",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Westland Wasp is a helicopter operated by Unknown, introduced in 1963. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-westland-wessex",
+    "name": "Westland Wessex",
+    "designation": "Helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1961,
+    "manufacturer": "Westland Aircraft Westland Helicopters",
+    "role": "Helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Wessex_%2852254018690%29.jpg/1280px-Wessex_%2852254018690%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Westland Wessex is a helicopter operated by Unknown, introduced in 1961. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-westland-whirlwind-helicopter",
+    "name": "Westland Whirlwind (helicopter)",
+    "designation": "Helicopter",
+    "nation": "Unknown",
+    "domain": "Sea",
+    "era": "Cold War",
+    "yearIntroduced": 1954,
+    "manufacturer": "Westland Aircraft",
+    "role": "Helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Whirlwind_-_RIAT_2018_%28cropped%29.jpg/1280px-Whirlwind_-_RIAT_2018_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "sea",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Westland Whirlwind (helicopter) is a helicopter operated by Unknown, introduced in 1954. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-westland-ws-51-dragonfly",
+    "name": "Westland WS-51 Dragonfly",
+    "designation": "Rescue or communications helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1950,
+    "manufacturer": "Westland Aircraft",
+    "role": "Rescue or communications helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/de/Westland_Dragonfly_HR.3_WG723_706_Sq_BAG_20.08.55_edited-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Westland WS-51 Dragonfly is a rescue or communications helicopter operated by Unknown, introduced in 1950. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "su-yakovlev-vvp-6",
+    "name": "Yakovlev VVP-6",
+    "designation": "Multi-rotor flying platform",
+    "nation": "Soviet Union",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Yakovlev",
+    "role": "Multi-rotor flying platform",
+    "thumbnail": "",
+    "tags": [
+      "soviet union",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Yakovlev VVP-6 is a multi-rotor flying platform operated by Soviet Union, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-yakovlev-yak-24",
+    "name": "Yakovlev Yak-24",
+    "designation": "Transport helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1955,
+    "manufacturer": "Yakovlev",
+    "role": "Transport helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/db/%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Yakovlev Yak-24 is a transport helicopter operated by Unknown, introduced in 1955. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "su-yakovlev-yak-60",
+    "name": "Yakovlev Yak-60",
+    "designation": "",
+    "nation": "Soviet Union",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/56/Yak-60_Side.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "soviet union",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Yakovlev Yak-60 is a unknown operated by Soviet Union, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "su-yakovlev-yak-100",
+    "name": "Yakovlev Yak-100",
+    "designation": "Transport helicopter",
+    "nation": "Soviet Union",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Yakovlev",
+    "role": "Transport helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Yakovlev_Yak-100_3-view_line_drawing.svg/1280px-Yakovlev_Yak-100_3-view_line_drawing.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "soviet union",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Yakovlev Yak-100 is a transport helicopter operated by Soviet Union, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "us-advanced-attack-helicopter",
+    "name": "Advanced Attack Helicopter",
+    "designation": "",
+    "nation": "United States",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/YAH-64_1982_01761_cr.jpg/1280px-YAH-64_1982_01761_cr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "united states",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Advanced Attack Helicopter is a unknown operated by United States, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-agusta-a129-mangusta",
+    "name": "Agusta A129 Mangusta",
+    "designation": "Attack helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1990,
+    "manufacturer": "Agusta",
+    "role": "Attack helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e5/20150506052017%21Agusta_A129A_Mangusta%2C_Italy_-_Army_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Agusta A129 Mangusta is a attack helicopter operated by Unknown, introduced in 1990. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-agustawestland-apache",
+    "name": "AgustaWestland Apache",
+    "designation": "Attack helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Modern",
+    "yearIntroduced": 2004,
+    "manufacturer": "Boeing Westland Helicopters AgustaWestland",
+    "role": "Attack helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/AH64D_Longbow_Apache_-_Duxford_Autumn_Airshow_2010_%28modified%29.jpg/1280px-AH64D_Longbow_Apache_-_Duxford_Autumn_Airshow_2010_%28modified%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "modern"
+    ],
+    "specs": {},
+    "laymansBrief": "AgustaWestland Apache is a attack helicopter operated by Unknown, introduced in 2004. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-attack-helicopter",
+    "name": "Attack helicopter",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Apache_Helicopter_Firing_Rockets_MOD_45154922.jpg/1280px-Apache_Helicopter_Firing_Rockets_MOD_45154922.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Attack helicopter is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bell-309-kingcobra",
+    "name": "Bell 309 KingCobra",
+    "designation": "Attack helicopter prototype",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Bell Helicopter",
+    "role": "Attack helicopter prototype",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bell_309_KingCobra_%28twin%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Bell 309 KingCobra is a attack helicopter prototype operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "vi-bell-ah-1-cobra",
+    "name": "Bell AH-1 Cobra",
+    "designation": "Attack helicopter",
+    "nation": "Vietnam War",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1967,
+    "manufacturer": "Bell Helicopter",
+    "role": "Attack helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c1/US_Army_AH-1G_archived.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "vietnam war",
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Bell AH-1 Cobra is a attack helicopter operated by Vietnam War, introduced in 1967. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bell-ah-1-supercobra",
+    "name": "Bell AH-1 SuperCobra",
+    "designation": "Attack helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1971,
+    "manufacturer": "Bell Helicopter",
+    "role": "Attack helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/AH-1W_Super_Cobra_assigned_to_HMLA_167.jpg/1280px-AH-1W_Super_Cobra_assigned_to_HMLA_167.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Bell AH-1 SuperCobra is a attack helicopter operated by Unknown, introduced in 1971. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bell-ah-1z-viper",
+    "name": "Bell AH-1Z Viper",
+    "designation": "Attack helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Modern",
+    "yearIntroduced": 2010,
+    "manufacturer": "Bell Helicopter",
+    "role": "Attack helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/AH-1Z_attack_helicopter_with_Marine_Light_Attack_Helicopter_Squadron_775_Group_41%2C_execute_pre-flight_checks_and_procedures_%28cropped%29.jpg/1280px-AH-1Z_attack_helicopter_with_Marine_Light_Attack_Helicopter_Squadron_775_Group_41%2C_execute_pre-flight_checks_and_procedures_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "modern"
+    ],
+    "specs": {},
+    "laymansBrief": "Bell AH-1Z Viper is a attack helicopter operated by Unknown, introduced in 2010. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "us-bell-yah-63",
+    "name": "Bell YAH-63",
+    "designation": "Attack helicopter",
+    "nation": "United States",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Bell Helicopter",
+    "role": "Attack helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/71/U.S._Army_YAH-63.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "united states",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Bell YAH-63 is a attack helicopter operated by United States, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-boeing-ah-64-apache",
+    "name": "Boeing AH-64 Apache",
+    "designation": "Attack helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1986,
+    "manufacturer": "Hughes Helicopters (1975–1984) McDonnell Douglas (1984–1997) Boeing Defense, Space & Security (1997–present)",
+    "role": "Attack helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/AH-64D_Apache_Longbow.jpg/1280px-AH-64D_Apache_Longbow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Boeing AH-64 Apache is a attack helicopter operated by Unknown, introduced in 1986. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-changhe-z-10",
+    "name": "Changhe Z-10",
+    "designation": "Attack helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Modern",
+    "yearIntroduced": 2009,
+    "manufacturer": "Changhe Aircraft Industries Corporation (CAIC)",
+    "role": "Attack helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/85/PLAAF_Changhe_WZ-10_-_Jordan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "modern"
+    ],
+    "specs": {},
+    "laymansBrief": "Changhe Z-10 is a attack helicopter operated by Unknown, introduced in 2009. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-denel-rooivalk",
+    "name": "Denel Rooivalk",
+    "designation": "Attack helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Modern",
+    "yearIntroduced": 2011,
+    "manufacturer": "Denel Aviation",
+    "role": "Attack helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Rooivalk_in_flight_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "modern"
+    ],
+    "specs": {},
+    "laymansBrief": "Denel Rooivalk is a attack helicopter operated by Unknown, introduced in 2011. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-eurocopter-tiger",
+    "name": "Eurocopter Tiger",
+    "designation": "Attack helicopter Anti-tank helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Modern",
+    "yearIntroduced": 2003,
+    "manufacturer": "Eurocopter Airbus Helicopters",
+    "role": "Attack helicopter Anti-tank helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/20170810034242%21Eurocopter_EC-665_Tiger_UHT%2C_Germany_-_Army_AN1547188_%282%29.jpg/1280px-20170810034242%21Eurocopter_EC-665_Tiger_UHT%2C_Germany_-_Army_AN1547188_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "modern"
+    ],
+    "specs": {},
+    "laymansBrief": "Eurocopter Tiger is a attack helicopter anti-tank helicopter operated by Unknown, introduced in 2003. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-hal-prachand",
+    "name": "HAL Prachand",
+    "designation": "Attack helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Next-Gen",
+    "yearIntroduced": 2022,
+    "manufacturer": "Hindustan Aeronautics Limited",
+    "role": "Attack helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/HAL_Prachand_%28ZF_4834%29.jpg/1280px-HAL_Prachand_%28ZF_4834%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "next-gen"
+    ],
+    "specs": {},
+    "laymansBrief": "HAL Prachand is a attack helicopter operated by Unknown, introduced in 2022. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-iaio-toufan",
+    "name": "IAIO Toufan",
+    "designation": "Attack helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Iran Aviation Industries Organization (IAIO)",
+    "role": "Attack helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Delivery_of_Toufan_I_attack_helicopters_to_IRIAA_%2818%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "IAIO Toufan is a attack helicopter operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-iar-317-airfox",
+    "name": "IAR 317 Airfox",
+    "designation": "Light utility /training helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1971,
+    "manufacturer": "Industria Aeronautică Română",
+    "role": "Light utility /training helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Romanian_IAR_316_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "IAR 317 Airfox is a light utility /training helicopter operated by Unknown, introduced in 1971. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-kamov-ka-50",
+    "name": "Kamov Ka-50",
+    "designation": "Attack helicopter , [ 1 ] scout helicopter [ 2 ]",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Post-Cold War",
+    "yearIntroduced": 1995,
+    "manufacturer": "Kamov",
+    "role": "Attack helicopter , [ 1 ] scout helicopter [ 2 ]",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Russian_Air_Force_Kamov_Ka-50.jpg/1280px-Russian_Air_Force_Kamov_Ka-50.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "post-cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Kamov Ka-50 is a attack helicopter , [ 1 ] scout helicopter [ 2 ] operated by Unknown, introduced in 1995. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "it-leonardo-helicopters-aw249-fenice",
+    "name": "Leonardo Helicopters AW249 Fenice",
+    "designation": "Attack helicopter",
+    "nation": "Italy",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Leonardo",
+    "role": "Attack helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Italian_Army_-_AW-249_Fenice_attack_helicopter_during_the_Stella_Alpina_exercise_2024_-_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "italy",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Leonardo Helicopters AW249 Fenice is a attack helicopter operated by Italy, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "us-lockheed-ah-56-cheyenne",
+    "name": "Lockheed AH-56 Cheyenne",
+    "designation": "Attack compound helicopter",
+    "nation": "United States",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Lockheed Corporation",
+    "role": "Attack compound helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lockheed_AH-56_Cheyenne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "united states",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Lockheed AH-56 Cheyenne is a attack compound helicopter operated by United States, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-mbb-bo-115",
+    "name": "MBB Bo 115",
+    "designation": "",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Unknown",
+    "role": "Unknown",
+    "thumbnail": "",
+    "tags": [
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "MBB Bo 115 is a unknown operated by Unknown, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-mil-mi-24",
+    "name": "Mil Mi-24",
+    "designation": "Attack helicopter with transport capabilities, helicopter gunship",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Cold War",
+    "yearIntroduced": 1972,
+    "manufacturer": "Mil",
+    "role": "Attack helicopter with transport capabilities, helicopter gunship",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Mi24CP_%28modified%29_b.jpg/1280px-Mi24CP_%28modified%29_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Mil Mi-24 is a attack helicopter with transport capabilities, helicopter gunship operated by Unknown, introduced in 1972. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-mil-mi-28",
+    "name": "Mil Mi-28",
+    "designation": "Attack helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Modern",
+    "yearIntroduced": 2009,
+    "manufacturer": "Mil",
+    "role": "Attack helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Russian_Air_Force%2C_RF-13489%2C_Mil_Mi-28NM_%2849581609382%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "modern"
+    ],
+    "specs": {},
+    "laymansBrief": "Mil Mi-28 is a attack helicopter operated by Unknown, introduced in 2009. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "us-sikorsky-s-67-blackhawk",
+    "name": "Sikorsky S-67 Blackhawk",
+    "designation": "Attack/assault helicopter",
+    "nation": "United States",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Sikorsky Aircraft",
+    "role": "Attack/assault helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sikorsky_S-67_research_and_development.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "united states",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "Sikorsky S-67 Blackhawk is a attack/assault helicopter operated by United States, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-tai-agustawestland-t129-atak",
+    "name": "TAI/AgustaWestland T129 ATAK",
+    "designation": "Attack helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Modern",
+    "yearIntroduced": 2014,
+    "manufacturer": "Turkish Aerospace Industries (TAI) [ 1 ]",
+    "role": "Attack helicopter",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/51/BG12-1001_%2814662033896%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "tags": [
+      "air",
+      "modern"
+    ],
+    "specs": {},
+    "laymansBrief": "TAI/AgustaWestland T129 ATAK is a attack helicopter operated by Unknown, introduced in 2014. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "tr-tai-t629",
+    "name": "TAI T629",
+    "designation": "Attack helicopter Unmanned attack helicopter",
+    "nation": "Turkey",
+    "domain": "Air",
+    "era": "Unknown",
+    "yearIntroduced": null,
+    "manufacturer": "Turkish Aerospace Industries",
+    "role": "Attack helicopter Unmanned attack helicopter",
+    "thumbnail": "",
+    "tags": [
+      "turkey",
+      "air"
+    ],
+    "specs": {},
+    "laymansBrief": "TAI T629 is a attack helicopter unmanned attack helicopter operated by Turkey, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-tai-t929-atak-2",
+    "name": "TAI T929 ATAK 2",
+    "designation": "Heavy attack helicopter",
+    "nation": "Unknown",
+    "domain": "Air",
+    "era": "Next-Gen",
+    "yearIntroduced": 2026,
+    "manufacturer": "Turkish Aerospace Industries [ 1 ]",
+    "role": "Heavy attack helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/TAI_ATAK-2_Teknofest2019_%281%29.jpg/1280px-TAI_ATAK-2_Teknofest2019_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "air",
+      "next-gen"
+    ],
+    "specs": {},
+    "laymansBrief": "TAI T929 ATAK 2 is a heavy attack helicopter operated by Unknown, introduced in 2026. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-kamov-ka-32",
+    "name": "Kamov Ka-32",
+    "designation": "Civilian utility helicopter",
+    "nation": "Unknown",
+    "domain": "Land",
+    "era": "Cold War",
+    "yearIntroduced": 1985,
+    "manufacturer": "Kamov KumAPP",
+    "role": "Civilian utility helicopter",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Kamov_Ka-32S.jpg/1280px-Kamov_Ka-32S.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "land",
+      "cold war"
+    ],
+    "specs": {},
+    "laymansBrief": "Kamov Ka-32 is a civilian utility helicopter operated by Unknown, introduced in 1985. A full tactical brief has not yet been generated for this record."
   }
 ]
