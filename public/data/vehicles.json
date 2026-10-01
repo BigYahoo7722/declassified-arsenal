@@ -8167,5 +8167,30 @@
     ],
     "specs": {},
     "laymansBrief": "VP22 is a unknown operated by China, introduced in an undetermined year. A full tactical brief has not yet been generated for this record."
+  },
+  {
+    "id": "un-bvp-m",
+    "name": "BVP-M",
+    "designation": "Infantry fighting vehicle",
+    "nation": "Unknown",
+    "domain": "Land",
+    "era": "Next-Gen",
+    "yearIntroduced": 2018,
+    "manufacturer": "MSM Land Systems Division",
+    "role": "Infantry fighting vehicle",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/BAHNA_2018_-_483.jpg/1280px-BAHNA_2018_-_483.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tags": [
+      "land",
+      "next-gen"
+    ],
+    "specs": {
+      "combatWeight": "15.3 tons",
+      "length": "6.735 meters",
+      "crew": "3",
+      "armament": "30 mm 2A42 autocannon",
+      "powerplant": "UTD-20 220 kW at 2,600 rpm",
+      "maxSpeed": "65 km/h - on road 30 km/h - offroad"
+    },
+    "laymansBrief": "BVP-M is a infantry fighting vehicle operated by Unknown, introduced in 2018. A full tactical brief has not yet been generated for this record."
   }
 ]
